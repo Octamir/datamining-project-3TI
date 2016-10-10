@@ -1,0 +1,11 @@
+# File to test stuff in
+datamining-project-3TI.test.ipynb
+
+# Data folder
+data/
+
+# Created by https://www.gitignore.io/api/ipythonnotebook
+
+### IPythonNotebook ###
+# Temporary data
+.ipynb_checkpoints/
